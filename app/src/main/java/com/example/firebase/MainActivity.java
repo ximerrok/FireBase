@@ -26,7 +26,7 @@ public class MainActivity extends AppCompatActivity {
     private FirebaseAuth firebaseAuth;
     private EditText email;
     private EditText password;
-    private Button confirm;//Нурболсын залупа
+    private Button confirm;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
